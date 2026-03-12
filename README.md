@@ -1,7 +1,7 @@
 # {REPORT NAME}
 ## NHS England South West Insights and Intelligence
 
-### About the Reporrt
+### About the Report
 
 {ADD EXPERIMENTAL STATUS BADGE IF PROJECT IS IN DEVELOPMENT}
 [![status: experimental](https://github.com/GIScience/badges/raw/master/status/experimental.svg)](https://github.com/GIScience/badges#experimental)
