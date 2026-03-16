@@ -18,8 +18,15 @@
 *.tax2010
 *.vcf
 *.xml
+*.xls
+*.xlsx
+*.xlsb
+*.slsm
 
+### R studio ###
 personal_creds.R
+*.rds
+*.RData
 
 ### direnv ###
 .direnv
